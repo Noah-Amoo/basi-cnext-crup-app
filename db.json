@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "id": "74e2",
+      "title": "First Post",
+      "content": "This is the First Post made by us in CRUD app."
+    },
+    {
+      "id": "89qZ",
+      "title": "Second Post",
+      "content": "This is the Second Post made by us in CRUD app."
+    }
+  ]
+}
